@@ -3,5 +3,5 @@ Quelques exercices d'applications pour l'initiation au Développement Web avec l
 J'ai appris: 
  Créer un site Web et le formatter.
  Ajouter une table/ images/ vidéo/ formulaire dans un site Web...
-### this is a subheader
+
 
